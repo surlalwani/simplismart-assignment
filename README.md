@@ -98,9 +98,3 @@ python deployment_automation.py \
 - Ensure kubeconfig is correctly set up
 - Verify Metrics Server is installed for `kubectl top`
 - Check KEDA installation in the cluster
-
-## License
-[Your License Here]
-
-## Contributing
-Contributions are welcome. Please open an issue or submit a pull request.
